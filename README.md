@@ -1,4 +1,14 @@
-- 👋 Hi, I’m lvcq4
-- 🌱 I’m currently learning java, bash
-- 📫 How to reach me [luca@lvcq.xyz](mailto:luca@lvcq.xyz)
+# Hi there 👋
 
+I'm Luca, currently learning **Java**, **JavaScript**, **HTML & CSS**, and **Lua**.
+
+---
+
+🐧 Windows 10 user & Arch Linux  
+📫 Reach me at: [luca@lvcq.xyz](mailto:luca@lvcq.xyz)
+
+---
+
+## 📊 GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lvcq4&layout=compact&theme=radical)
