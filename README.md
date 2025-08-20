@@ -4,7 +4,7 @@ I'm Luca, currently learning **Java**, **JavaScript**, **HTML & CSS**, and **Lua
 
 ---
 
-🐧 Windows 10 user & Arch Linux  
+🐧 Windows 10 & Arch Linux  
 📫 Reach me at: [luca@lvcq.xyz](mailto:luca@lvcq.xyz)
 
 ---
