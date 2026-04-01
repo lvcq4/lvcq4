@@ -14,8 +14,8 @@ I'm Luca, currently learning:
 
 ---
 
-💻 Windows 11 & Arch Linux  
-📫 Reach me at: [luca@lvcq.xyz](mailto:luca@lvcq.xyz)
+💻 Windows 10 & Arch Linux  
+📫 Reach me at: [luca@lvcq.me](mailto:luca@lvcq.me)
 
 ---
 
