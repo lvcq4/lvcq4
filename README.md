@@ -8,13 +8,13 @@ I'm Luca, currently learning:
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)  
 
-**Main work:** contributing to [1one](https://github.com/1one-org) projects.
+**Main work:** contributing to [HeisenState Network](https://github.com/heisenstate) project.
 
-[![1one GitHub](https://img.shields.io/badge/1one-Org-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/1one-org)
+[![1one GitHub](https://img.shields.io/badge/heisenstate-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/heisenstate)
 
 ---
 
-💻 Windows 10 & Arch Linux  
+💻 Windows 10
 📫 Reach me at: [luca@lvcq.me](mailto:luca@lvcq.me)
 
 ---
