@@ -8,17 +8,12 @@ I'm Luca, currently learning:
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)  
 
-**Main work:** contributing to [HeisenState Network](https://github.com/heisenstate) project.
+**Main work:** contributing to [HeisenState Network](https://github.com/heisenstate) and [WESA-IT](https://github.com/wesa-it) projects.
 
-[![1one GitHub](https://img.shields.io/badge/heisenstate-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/heisenstate)
+[![heisenstate GitHub](https://img.shields.io/badge/heisenstate-gold?style=for-the-badge&logo=github&logoColor=white)](https://github.com/heisenstate)  
+[![wesa-it GitHub](https://img.shields.io/badge/wesa-it-white?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wesa-it)
 
 ---
 
-💻 Windows 10
+💻 Windows 10  
 📫 Reach me at: [luca@lvcq.me](mailto:luca@lvcq.me)
-
----
-
-## 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lvcq4&layout=compact&theme=gruvbox)  
